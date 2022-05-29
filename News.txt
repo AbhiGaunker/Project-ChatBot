@@ -1,0 +1,3 @@
+NEWS
+* use '@' before question to GS
+* Use '()' for calculation eg, (2+3) 

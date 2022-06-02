@@ -28,4 +28,4 @@ Final updates:
 * automatic web scrapping for calculatons and all
 
 
-Journey started by making a simple bot but at the end it looked more like VOICE ASSISTANT (would have definately after few more updates updates)
+Journey started by making a simple bot but at the end it looked more like VOICE ASSISTANT (would have definately after few more updates)
